@@ -1,0 +1,25 @@
+.hero-flex{
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image-flex{
+    display: block;
+}
+
+.iframe-style{
+    width: 700px;
+    height: 300px;
+}
+
+@media screen and (max-width: 1000px) {
+    .hero-flex{
+        display: block;
+    }
+
+    .hero-image-flex{
+        display: block;
+        display: flex;
+        justify-content: center;
+    }
+  }

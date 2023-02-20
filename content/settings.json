@@ -21,11 +21,12 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Features", "url": "/#features" }
+        { "label": "Collections", "url": "/#collections" }
       ],
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Women Print", "url": "/print-collection" },
+        { "label": "Women Original", "url": "/original-collection" },
+        { "label": "Abstract", "url": "/abstract-collection" }
       ]
     },
     "featureToggles": {

@@ -1,14 +1,17 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/about.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Artistique is a fine art gallery located in 24 Hillside Gardens Northwood, Greater London UK. The gallery was established in 1993 and is dedicated to the exhibition, education and research of contemporary figurative art. Our aim is to contribute, initiate, develop and inspire viewers about the visual arts.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Artistique Artwork Gallery is always open for submissions from all creative artists. Get your opportunity to exhibit your works at a prestigious gallery and have them seen by thousands of visitors who appreciate the art.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+#### OPENING HOURS
+10.30am to 5.30pm, Tuesday to Sunday during exhibitions.
+Closed on Mondays (except bank holidays) and during exhibition changeovers.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+#### DIRECTIONS
+via subway take 282/H11 train towards Harrow Bus Station (Stop D), walk about 2 min, head southeast on Green Ln/A4125, at the roundabout, take the 2nd exit onto Northwood Way, turn right to stay on Northwood Way, turn left onto Hillside Rise, Continue onto Hillside Gardens. Artistique Artwork Gallery will be on the left.
+
